@@ -1,0 +1,8 @@
+services:
+  default:
+    image: tellbench-sandbox:latest
+    x-local: true
+    init: true
+    network_mode: none
+    working_dir: /workspace
+    command: ["sleep", "infinity"]
