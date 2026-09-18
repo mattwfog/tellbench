@@ -115,3 +115,7 @@ of this repository, so the judge pipeline (`src/tellbench/judge/`,
 here for inspection rather than execution. The working name through v1 was
 `dispobench`; the frozen canary seeds and a few historical paths keep that
 token so every v1 trace still round-trips. Judge-scored creativity layers are explicitly out of v1.
+
+## License
+
+[MIT](LICENSE).
